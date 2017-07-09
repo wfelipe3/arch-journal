@@ -11,7 +11,7 @@ Use cases for the application are the following
 1. Create journal entry
 2. See all journal entries
 3. Search for a specific entry
-4. modiry entry
+4. modify entry
 
 ## Architecture
 
