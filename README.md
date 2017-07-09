@@ -28,3 +28,8 @@ The journal entry has the following properties
 |Comment    |string|comment for the entry                   |
 |project    |string|project that was affected by the entry  |
 
+### Event sourcing
+
+For this project I have decided to use event sourcing. Events are described below
+
+1. Journal entry created
