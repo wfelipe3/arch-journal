@@ -74,3 +74,7 @@ custom_mark10
   }
 custom_mark10
 </details>
+
+
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
