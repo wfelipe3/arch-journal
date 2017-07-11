@@ -58,7 +58,7 @@ custom_mark10f
 
 
 ![Alt text](https://g.gravizo.com/source/svg/test?http%3A%2F%2Fwww.gravizo.com)
-![Alt text](http://www.gravizo.com/img/1x1.png#
+![Alt text](http://www.gravizo.com/img/1x1.png#)
 
 test
 @startuml
